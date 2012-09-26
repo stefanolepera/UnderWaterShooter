@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+    <fish id="1" score="10" speed="8" />
+	<fish id="2" score="15" speed="9" />
+	<fish id="3" score="5" speed="7" />
+	<fish id="4" score="20" speed="10" />
+	<fish id="5" score="25" speed="11" />
+</main>

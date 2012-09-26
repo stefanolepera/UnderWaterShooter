@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:8746ee89ab416c3a19c3e0839adbd32c$ -->
+<TextureAtlas imagePath="underwaterSpritesheet.png">
+    <SubTexture name="bgLayer_2" x="2" y="2" width="800" height="72"/>
+    <SubTexture name="fish_1" x="804" y="2" width="52" height="37"/>
+    <SubTexture name="fish_2" x="858" y="2" width="40" height="45"/>
+    <SubTexture name="fish_3" x="900" y="2" width="38" height="31"/>
+    <SubTexture name="fish_4" x="940" y="2" width="44" height="38"/>
+    <SubTexture name="fish_5" x="2" y="76" width="46" height="38"/>
+    <SubTexture name="harpoon" x="50" y="76" width="35" height="15"/>
+    <SubTexture name="diver" x="87" y="76" width="163" height="65"/>
+    <SubTexture name="diver_menu" x="252" y="76" width="115" height="190"/>
+    <SubTexture name="logo" x="369" y="76" width="383" height="133"/>
+    <SubTexture name="playAgainButton" x="754" y="76" width="139" height="66"/>
+    <SubTexture name="playButton" x="2" y="268" width="139" height="66"/>
+    <SubTexture name="startButton" x="143" y="268" width="139" height="66"/>
+</TextureAtlas>
